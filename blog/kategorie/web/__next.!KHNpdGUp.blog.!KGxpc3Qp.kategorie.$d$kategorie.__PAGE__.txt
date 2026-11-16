@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:"/tacheles/_next/static/chunks/1ua2kfq9s-me6.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"/tacheles/_next/static/chunks/2lfi2u716g4xu.js"
+9:"/tacheles/_next/static/chunks/2m5305_2fhjue.js"
+a:"/tacheles/_next/static/chunks/3trb_-9muyr_2.js"
+b:I[54597,["$2","$8","$9","$a"],"ScrollProgress"]
+c:I[54597,["$2","$8","$9","$a"],"SiteNav"]
+d:I[86057,["$2","$8","$9","$a"],"Footer"]
+13:"/tacheles/_next/static/chunks/3xfir8gfqe92d.js"
+14:I[46278,["$2","$8","$9","$a","$13"],"SectionLabel"]
+15:I[46278,["$2","$8","$9","$a","$13"],"SplitReveal"]
+16:I[67370,["$2","$8","$9","$a","$13"],"CategoryNav"]
+22:"ViewportBoundary"
+23:I[97367,["$2"],"$22"]
+24:"MetadataBoundary"
+25:I[97367,["$2"],"$24"]
+26:"$Sreact.suspense"
+27:I[27201,["$2"],"IconMark"]
+:HL["/tacheles/_next/static/chunks/119x3n3paa3e1.css","style"]
+6:X
+11:X
+11:C
+1c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","p",null,{"className":"mb-10 max-w-lg text-fg-muted","children":"Websites und Web-Apps, die laufen und wartbar bleiben."}],"$L1d"],["$L1e","$L1f"],"$L20"]}],"p":"$@21","v":null,"s":"$6"}}]]
+1a:[["children",{"s":{"n":"kategorie","t":"d","k":"web","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@1b","v":"$11","s":"$6"},"c":"$Q1c"}]]
+18:[["children",{"s":"kategorie","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@19","v":"$11","s":"$6"},"c":"$Q1a"}]]
+12:[["children",{"s":"(list)","h":96,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/tacheles/_next/static/chunks/3xfir8gfqe92d.js","async":true}]],["$","div",null,{"data-theme":"light","className":"block-section min-h-svh pt-36 md:pt-44","children":["$","div",null,{"className":"wrap grid gap-14 lg:grid-cols-12 lg:gap-8","children":[["$","aside",null,{"className":"lg:col-span-4","children":["$","div",null,{"className":"lg:sticky lg:top-28","children":[["$","$L14",null,{"index":"00","label":"Blog"}],["$","$L15",null,{"as":"h1","text":"Klartext, aufgeschrieben.","onLoad":true,"delay":0.1,"className":"t-h1 mt-8 lg:!text-[clamp(2.25rem,1rem+2.6vw,3.5rem)]"}],["$","p",null,{"className":"t-lead mt-6 text-fg-muted","children":"Case Studies aus meinen Projekten und Notizen zu Produkt, Systemen und Web. Ohne Buzzwords."}],["$","div",null,{"className":"mt-10","children":["$","$L16",null,{"counts":{"arbeiten":8,"produkt":0,"systeme":1,"web":0},"total":9}]}]]}]}],["$","div",null,{"className":"lg:col-span-7 lg:col-start-6","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}]}]]}],"p":"$@17","v":null,"s":"$6"},"c":"$Q18"}]]
+f:[["children",{"s":"blog","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@10","v":"$11","s":"$6"},"c":"$Q12"}]]
+7:[["children",{"s":"(site)","h":96,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/tacheles/_next/static/chunks/2lfi2u716g4xu.js","async":true}],["$","script","script-1",{"src":"/tacheles/_next/static/chunks/2m5305_2fhjue.js","async":true}],["$","script","script-2",{"src":"/tacheles/_next/static/chunks/3trb_-9muyr_2.js","async":true}]],[["$","a",null,{"href":"#main","className":"t-label sr-only z-[80] rounded-md bg-ink px-4 py-3 text-paper focus:not-sr-only focus:fixed focus:top-4 focus:left-4","children":"Zum Inhalt springen"}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$Ld",null,{}]]]}],"p":"$@e","v":null,"s":"$6"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tacheles/_next/static/chunks/119x3n3paa3e1.css","precedence":"next"}],["$","script","script-0",{"src":"/tacheles/_next/static/chunks/1ua2kfq9s-me6.js","async":true}]],["$","html",null,{"lang":"de","className":"ZPtN2q_variable BEZAnG_variable vJ39pq_variable antialiased","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f8f8f7"}]]}],["$","$L25",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$26",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Web · Blog · tacheles.build"}],["$","meta","1",{"name":"description","content":"Websites und Web-Apps, die laufen und wartbar bleiben."}],["$","meta","2",{"property":"og:title","content":"tacheles.build"}],["$","meta","3",{"property":"og:description","content":"Vom Backlog bis zum Deployment. Product Lead, Business Apps und Web Development."}],["$","meta","4",{"property":"og:locale","content":"de_DE"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"tacheles.build"}],["$","meta","8",{"name":"twitter:description","content":"Vom Backlog bis zum Deployment. Product Lead, Business Apps und Web Development."}],["$","link","9",{"rel":"icon","href":"/tacheles/icon.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/tacheles/apple-touch-icon.png"}],["$","$L27","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@28","v":null,"s":"$6"}},"a":"$@29","u":"$@2a","b":"zq0tUQ8SOt6RUtymjKJ_F"}
+2b:I[97367,["$2"],"OutletBoundary"]
+1d:["$","div",null,{"className":"flex min-h-80 flex-col items-start justify-center rounded-xl border border-dashed border-line p-10","children":[["$","span",null,{"aria-hidden":true,"className":"size-3 rounded-[3px] bg-gold"}],["$","p",null,{"className":"t-h3 mt-5","children":"Hier steht noch nichts. Ehrlich."}],["$","p",null,{"className":"mt-2 max-w-sm text-fg-muted","children":"Der erste Artikel in dieser Kategorie ist in Arbeit."}]]}]
+1e:["$","script","script-0",{"src":"/tacheles/_next/static/chunks/14rf8z_jm15-o.js","async":true}]
+1f:["$","script","script-1",{"src":"/tacheles/_next/static/chunks/23_n0cgsuox24.js","async":true}]
+20:["$","$L2b",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+6:300
+2c:null
+2a:true
+6:C
+29:0
+1b:"$undefined"
+19:"$undefined"
+17:"$undefined"
+10:"$undefined"
+e:"$undefined"
+5:"$undefined"
+28:"$undefined"
+21:"$undefined"
