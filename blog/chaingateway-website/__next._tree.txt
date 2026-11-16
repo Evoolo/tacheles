@@ -7,4 +7,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"chaingateway-website","s":["kategorie"]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"blog","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(site)","h":96,"c":"$Q2"}]]
-0:{"b":"UsCNL7h0WH4AEhrUpkPZU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Si9nY1iagH8HSAOezmPJJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
