@@ -1,4 +1,4 @@
-:HL["/tacheles/_next/static/chunks/119x3n3paa3e1.css","style"]
+:HL["/tacheles/_next/static/chunks/3e7-asx0fpv7l.css","style"]
 :HL["/tacheles/_next/static/media/0d3323de857e1fce-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tacheles/_next/static/media/660acf689794c992-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tacheles/_next/static/media/86fd170c8543a779-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"konzes-campingshop","s":["kategorie"]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"blog","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(site)","h":96,"c":"$Q2"}]]
-0:{"b":"zq0tUQ8SOt6RUtymjKJ_F","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"UsCNL7h0WH4AEhrUpkPZU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
